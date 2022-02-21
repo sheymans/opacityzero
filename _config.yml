@@ -30,7 +30,7 @@ twitter_username: opacity0press
 # github_username:  sheymans
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
