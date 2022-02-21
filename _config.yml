@@ -6,10 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:
   Opacity Zero is a show about challenging the unknown with curiosity. About
   unanswered questions, controversial answers and the need for a little bit of
   certainty in a world where nothing seems certain at all.
-baseurl: "/opacityzero" # the subpath of your site, e.g. /blog
-url: "sheymans.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: opacity0press
-# github_username:  sheymans
+url: "opacityzero.press" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
