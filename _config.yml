@@ -12,7 +12,6 @@ url: "sheymans.github.io" # the base hostname & protocol for your site, e.g. htt
 # github_username:  sheymans
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
