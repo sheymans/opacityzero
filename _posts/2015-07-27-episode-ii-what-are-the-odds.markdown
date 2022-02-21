@@ -28,7 +28,7 @@ Subscribe via the podcatcher of your choice by copying and pasting this URL into
 ## Transcript, Links and Notes
 
 <p>This is Opacity Zero, a show about challenging the unknown with curiosity. I am Melanie Heymans and I am really excited that you are back for episode II. . . What are the odds?</p>
-<p><u>38, 73, 12, 641. . .these are the numbers that sum up <a href="http://www.iata.org/pressroom/pr/Pages/2015-03-09-01.aspx">commercial aviation safety for 2014</u></a>:</u></p>
+<p>38, 73, 12, 641. . .these are the numbers that sum up <u><a href="http://www.iata.org/pressroom/pr/Pages/2015-03-09-01.aspx">commercial aviation safety for 2014</a></u>:</p>
 <ul>
 <li>38 million flights</li>
 <li>73 accidents</li>
