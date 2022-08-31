@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+> Check out [unanswered](https://unanswered.substack.com/)
+
 Opacity Zero is a show about challenging the unknown with curiosity. About
 unanswered questions, controversial answers and the need for a little bit of
 certainty in a world where nothing seems certain at all.
